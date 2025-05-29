@@ -27,7 +27,7 @@ public class Main {
         System.out.println("число " + map + " является типу переменной double");
         System.out.println("число " + book + " является типу переменной short");
         System.out.println("число " + temp + " является типу переменной short");
-        System.out.println("число " + add + " является типу переменной int");
+        System.out.println("число " + add + " является типу переменной short");
         System.out.println("число " + dog + " является типу переменной byte");
 
         System.out.println("3 задание");
